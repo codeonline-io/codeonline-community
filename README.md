@@ -1,4 +1,4 @@
-![CodeOnline](https://www.codeonline.io/img/codeonline-banner-black-padding.png)
+![CodeOnline](https://www.codeonline.io/img/codeonline-community-small.png)
 
 # CodeOnline Community
 Wecome to the **CodeOnline Community**, a place to collaborate, ask questions and leave feedback for [coding remotely with CodeOnline](https://www.codeonline.io).
